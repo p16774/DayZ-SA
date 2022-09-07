@@ -2,9 +2,8 @@
 Code for init.c used in the game DayZ for StandAlone servers
 
 
-/* Welcome to Project3W Career DayZ Mod */
-//
-/* Author: Supernova					*/
+Welcome to Project3W Career DayZ Mod
+Author: Supernova
 
 Install Instructions:
 
