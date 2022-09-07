@@ -2,10 +2,10 @@
 Code for init.c used in the game DayZ for StandAlone servers
 
 
-Welcome to Project3W Career DayZ Mod
+<strong>Welcome to Project3W Career DayZ Mod
 Author: Supernova
 
-Install Instructions:
+Install Instructions:</strong>
 
 1. Copy the careerDayZ.chernarusplus folder and drop it into your \mpmission\ folder on your server
 2. Edit your serverDZ.cfg file and change your "template="dayzOffline.chernarusplus";" line to the new folder name eg. template="careerDayZ.chernarusplus";
@@ -17,7 +17,7 @@ Or if you don't want to change your serverDZ.cfg file:
 2. Copy the init.c file in the mod to the \mpmission\dayzOffline.chernarusplus or \mpmission\dayzOffline.enoch folder
 3. run your server and enjoy Career DayZ!!!
 
-Alternately:
+<strong>Alternately:</strong>
 
 1. Make a copy of your entire dayzOffline.chernarusplus or dayzOffline.enoch folder in the same \mpmission folder
 2. Make sure to rename the copied folder to something like careerDayZ.chernarusplus or careerDayZ.enoch. Leaving the .chernarusplus or .enoch I don't think is critical but makes it easier to know the map you are running
@@ -25,7 +25,8 @@ Alternately:
 4. run your server and enjoy Career DayZ!!!
 
 
-Editing Values:
+<strong>Editing Values:</strong>
+
 Look for the SetCareerPath function and find all roles listed below this.
 Any gear you want on the player, make sure it's in the "playerGear" line
 Any items you want them to have will go in the "allItems" line
@@ -36,7 +37,7 @@ The itemWeaponAttachments line is built for gun weapons and if compatible will a
 If it's in braces {} this is an array and can hold multiple items in quotes "" separated by a comma ,
 If it's only in quotes "" it will only hold 1 item (this is only the weapon slot currently)
 
-Example:
+<strong>Example:</strong>
 playerGear = {"TacticalShirt_Olive","BDUPants","JungleBoots_Olive","TacticalGloves_Beige","MilitaryBelt"};
 allItems = {"WeaponCleaningKit","Morphine","BandageDressing"};
 beltAttachments = {"Canteen","PlateCarrierHolster"}
