@@ -3,7 +3,10 @@ Code for init.c used in the game DayZ for StandAlone servers
 
 
 /* Welcome to Project3W Career DayZ Mod */
+//
 /* Author: Supernova					*/
+
+Install Instructions:
 
 1. Copy the careerDayZ.chernarusplus folder and drop it into your \mpmission\ folder on your server
 2. Edit your serverDZ.cfg file and change your "template="dayzOffline.chernarusplus";" line to the new folder name eg. template="careerDayZ.chernarusplus";
