@@ -38,10 +38,11 @@ If it's in braces {} this is an array and can hold multiple items in quotes "" s
 If it's only in quotes "" it will only hold 1 item (this is only the weapon slot currently)
 
 <strong>Example:</strong>
-playerGear = {"TacticalShirt_Olive","BDUPants","JungleBoots_Olive","TacticalGloves_Beige","MilitaryBelt"};
-allItems = {"WeaponCleaningKit","Morphine","BandageDressing"};
-beltAttachments = {"Canteen","PlateCarrierHolster"}
-itemWeapon = "FNX45";
+
+playerGear = {"TacticalShirt_Olive","BDUPants","JungleBoots_Olive","TacticalGloves_Beige","MilitaryBelt"};</br>
+allItems = {"WeaponCleaningKit","Morphine","BandageDressing"};</br>
+beltAttachments = {"Canteen","PlateCarrierHolster"};</br>
+itemWeapon = "FNX45";</br>
 itemWeaponAttachments = {"Mag_FNX45_15Rnd"};
 
 
