@@ -20,8 +20,7 @@ Or if you don't want to change your serverDZ.cfg file:
 Alternately:
 
 1. Make a copy of your entire dayzOffline.chernarusplus or dayzOffline.enoch folder in the same \mpmission folder
-2. Make sure to rename the copied folder to something like careerDayZ.chernarusplus or careerDayZ.enoch
-- leaving the .chernarusplus or .enoch I don't think is critical but makes it easier to know the map you are running
+2. Make sure to rename the copied folder to something like careerDayZ.chernarusplus or careerDayZ.enoch. Leaving the .chernarusplus or .enoch I don't think is critical but makes it easier to know the map you are running
 3. Edit your serverDZ.cfg file and change your "template="dayzOffline.chernarusplus";" line to the new folder name eg. template="careerDayZ.enoch";
 4. run your server and enjoy Career DayZ!!!
 
@@ -47,5 +46,6 @@ itemWeaponAttachments = {"Mag_FNX45_15Rnd"};
 
 
 Want to help support the ongoing efforts of this mod? You can subscribe to my Patreon and get exclusive early access to this project.
+
 Patreon Link: 
 https://www.patreon.com/project3w
