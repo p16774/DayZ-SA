@@ -1,4 +1,4 @@
-# DayZ-SA
+# DayZ-SA CareerDayZ
 Code for init.c used in the game DayZ for StandAlone servers
 
 
